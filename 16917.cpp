@@ -1,27 +1,17 @@
 #include <iostream>
 #include <string>
+#include <algorithm>
 using namespace std;
 
-int go(string &s, int index, char last) {
-	if (index == s.length()) {
-		return 1;
-	}
-
-	char start = (s[index] == 'c' ? 'a' : '0');
-	char end = (s[index] == 'd' ? 'z' : '9');
-	int ans = 0;
-	for (char i = start; i <= end; i++) {
-		if (i != last) {
-			ans += go(s, index + 1, i);
-		}
-	}
-	return ans;
-}
-
-
 int main() {
-	string s;
-	cin >> s;
-	go(s, 0, ' ');
-	return 0;
+	int A, B, C, X, Y;
+	cin >> A >> B >> C >> X >> Y;
+	int res = A * X + B * Y;
+	int temp = 0;
+	for (int i = 0; i <= 100000; i++) {
+		temp = 2 * i * C + max(0, X - i) * A + max(0, Y - i)*B;
+		res = min(res, temp);
+	}
+	cout << res << '\n';
 }
+	
