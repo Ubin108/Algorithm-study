@@ -1,6 +1,6 @@
-# Algorithm-study
+# Algorithm-study 👨‍💻
 
-## Brute Force
+## Brute Force 
 [15683](https://github.com/Ubin108/Algorithm-study/blob/3b1ce9251d59c1a589492de10248cc1fb1a4e261/15683.cpp) 
 [15686](https://github.com/Ubin108/Algorithm-study/blob/3b1ce9251d59c1a589492de10248cc1fb1a4e261/15686.cpp) 
 [16637](https://github.com/Ubin108/Algorithm-study/blob/3b1ce9251d59c1a589492de10248cc1fb1a4e261/16637.cpp) 
