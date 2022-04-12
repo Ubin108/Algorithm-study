@@ -2,6 +2,7 @@
 
 ## Brute Force 
 [2210](https://github.com/Ubin108/Algorithm-study/blob/499f42f0ba5318b259172de23ab607c2a6334ef0/2210.cpp)
+[3019](https://github.com/Ubin108/Algorithm-study/blob/c395c3c8aea1f83091c0e74b806342c497bdbd6f/3019.cpp)
 [15683](https://github.com/Ubin108/Algorithm-study/blob/3b1ce9251d59c1a589492de10248cc1fb1a4e261/15683.cpp) 
 [15686](https://github.com/Ubin108/Algorithm-study/blob/3b1ce9251d59c1a589492de10248cc1fb1a4e261/15686.cpp) 
 [16637](https://github.com/Ubin108/Algorithm-study/blob/3b1ce9251d59c1a589492de10248cc1fb1a4e261/16637.cpp) 
