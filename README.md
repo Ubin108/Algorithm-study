@@ -16,3 +16,4 @@
 [16943](https://github.com/Ubin108/Algorithm-study/blob/3b1ce9251d59c1a589492de10248cc1fb1a4e261/16943-1.cpp) 
 [16968](https://github.com/Ubin108/Algorithm-study/blob/3b1ce9251d59c1a589492de10248cc1fb1a4e261/16968.cpp) 
 [17088](https://github.com/Ubin108/Algorithm-study/blob/3b1ce9251d59c1a589492de10248cc1fb1a4e261/17088.cpp)
+[17089](https://github.com/Ubin108/Algorithm-study/blob/7ff3465553cb55e6479f361a632d755c54afffa3/17089.cpp)
