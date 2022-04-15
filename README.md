@@ -16,6 +16,7 @@
 [16938](https://github.com/Ubin108/Algorithm-study/blob/3b1ce9251d59c1a589492de10248cc1fb1a4e261/16938.cpp, "캠프 준비") 
 [16943](https://github.com/Ubin108/Algorithm-study/blob/3b1ce9251d59c1a589492de10248cc1fb1a4e261/16943-1.cpp, "숫자 재배치") 
 [16968](https://github.com/Ubin108/Algorithm-study/blob/3b1ce9251d59c1a589492de10248cc1fb1a4e261/16968.cpp, "차량 번호판 1") 
+[16987}(https://github.com/Ubin108/Algorithm-study/blob/965b277baa96e66a92b0de219c6417e0fbf12dab/16987.cpp, "계란으로 계란치기")
 [17070](https://github.com/Ubin108/Algorithm-study/blob/0cdd52c4e0d158058c15bcb9de528d1ec53e6283/17070.cpp, "파이프 옮기기 1")
 [17085](https://github.com/Ubin108/Algorithm-study/blob/0aa41a4553a06442d442119056cdb793874ca0b7/17085.cpp, "십자가 2개 놓기")
 [17088](https://github.com/Ubin108/Algorithm-study/blob/3b1ce9251d59c1a589492de10248cc1fb1a4e261/17088.cpp, "등차수열 변환")
