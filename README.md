@@ -17,8 +17,13 @@
 [16943](https://github.com/Ubin108/Algorithm-study/blob/3b1ce9251d59c1a589492de10248cc1fb1a4e261/16943-1.cpp, "숫자 재배치") 
 [16968](https://github.com/Ubin108/Algorithm-study/blob/3b1ce9251d59c1a589492de10248cc1fb1a4e261/16968.cpp, "차량 번호판 1") 
 [16987](https://github.com/Ubin108/Algorithm-study/blob/965b277baa96e66a92b0de219c6417e0fbf12dab/16987.cpp, "계란으로 계란치기")
+[16988](https://github.com/Ubin108/Algorithm-study/blob/3ed0dc92e39310bbf56ffb2e8aa1bdf0692e0cdc/16988.cpp, "Baaaaaaaaaduk2 (Easy)")
 [17070](https://github.com/Ubin108/Algorithm-study/blob/0cdd52c4e0d158058c15bcb9de528d1ec53e6283/17070.cpp, "파이프 옮기기 1")
 [17085](https://github.com/Ubin108/Algorithm-study/blob/0aa41a4553a06442d442119056cdb793874ca0b7/17085.cpp, "십자가 2개 놓기")
 [17088](https://github.com/Ubin108/Algorithm-study/blob/3b1ce9251d59c1a589492de10248cc1fb1a4e261/17088.cpp, "등차수열 변환")
 [17089](https://github.com/Ubin108/Algorithm-study/blob/7ff3465553cb55e6479f361a632d755c54afffa3/17089.cpp, "세 친구")
 [17406](https://github.com/Ubin108/Algorithm-study/blob/1c02096cb0848d048a2b74ff8342d919ae996bdc/17406.cpp, "배열 돌리기 4")
+
+
+## BFS
+[16988](https://github.com/Ubin108/Algorithm-study/blob/3ed0dc92e39310bbf56ffb2e8aa1bdf0692e0cdc/16988.cpp, "Baaaaaaaaaduk2 (Easy)")
