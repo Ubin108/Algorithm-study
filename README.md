@@ -4,6 +4,7 @@
 [2210](https://github.com/Ubin108/Algorithm-study/blob/499f42f0ba5318b259172de23ab607c2a6334ef0/2210.cpp "숫자판 점프")
 [2422](https://github.com/Ubin108/Algorithm-study/blob/4ecc68953129c994646821f915160c518cdd0290/2422.cpp "한윤정이 이탈리아에 가서 아이스크림을 사먹는데")
 [3019](https://github.com/Ubin108/Algorithm-study/blob/c395c3c8aea1f83091c0e74b806342c497bdbd6f/3019.cpp "테트리스")
+[4902](https://github.com/Ubin108/Algorithm-study/blob/969435be42076820a30a44f6f8eac4126c0dbd40/4902.cpp, "삼각형의 값")
 [15683](https://github.com/Ubin108/Algorithm-study/blob/3b1ce9251d59c1a589492de10248cc1fb1a4e261/15683.cpp "감시") 
 [15684](https://github.com/Ubin108/Algorithm-study/blob/4ff630723e23dec9ab8ff319956b30635f049580/15684.cpp "사다리 조작")
 [15686](https://github.com/Ubin108/Algorithm-study/blob/3b1ce9251d59c1a589492de10248cc1fb1a4e261/15686.cpp "치킨 배달") 
