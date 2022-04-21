@@ -1,6 +1,7 @@
 # Algorithm-study 👨‍💻
 
 ## Brute Force 
+[1208](https://github.com/Ubin108/Algorithm-study/blob/26f8c21d77731f08fcea055f3e8b6099385899ba/1208.cpp "부분수열의 합 2")
 [1644](https://github.com/Ubin108/Algorithm-study/blob/89313278ed8d21ed3c3869e7cd37fe0c99dcd546/1644.cpp "소수의 연속합")
 [1806](https://github.com/Ubin108/Algorithm-study/blob/d2da10fdac186e70e2cf250ad6e5af12da80eaa6/1806.cpp "부분합")
 [2003](https://github.com/Ubin108/Algorithm-study/blob/41fb4955799e9b0fc0ac8c913d04ee15e10e7f73/2003.cpp "수들의 합 2")
