@@ -1,6 +1,7 @@
 # Algorithm-study 👨‍💻
 
 ## Brute Force 
+[1806](https://github.com/Ubin108/Algorithm-study/blob/d2da10fdac186e70e2cf250ad6e5af12da80eaa6/1806.cpp "부분합")
 [2003](https://github.com/Ubin108/Algorithm-study/blob/41fb4955799e9b0fc0ac8c913d04ee15e10e7f73/2003.cpp "수들의 합 2")
 [2210](https://github.com/Ubin108/Algorithm-study/blob/499f42f0ba5318b259172de23ab607c2a6334ef0/2210.cpp "숫자판 점프")
 [2422](https://github.com/Ubin108/Algorithm-study/blob/4ecc68953129c994646821f915160c518cdd0290/2422.cpp "한윤정이 이탈리아에 가서 아이스크림을 사먹는데")
