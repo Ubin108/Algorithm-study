@@ -1,7 +1,6 @@
 #include <iostream>
 #include <algorithm>
 using namespace std;
-
 int go(long long A, long long B) {
 	if (A == B) return 1;
 	if (A > B) return -1;
