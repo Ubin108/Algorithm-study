@@ -18,6 +18,7 @@
 [16938](https://github.com/Ubin108/Algorithm-study/blob/3b1ce9251d59c1a589492de10248cc1fb1a4e261/16938.cpp "캠프 준비") 
 [16943](https://github.com/Ubin108/Algorithm-study/blob/3b1ce9251d59c1a589492de10248cc1fb1a4e261/16943-1.cpp "숫자 재배치") 
 [16945](https://github.com/Ubin108/Algorithm-study/blob/7d6a5effb38d60aaa084d2706a95512d5d0ee48a/16945.cpp "매직 스퀘어로 변경하기")
+[16953](https://github.com/Ubin108/Algorithm-study/blob/abe43d3be5155b5139597b725f676338c3e7135f/16953.cpp "A->B")
 [16968](https://github.com/Ubin108/Algorithm-study/blob/3b1ce9251d59c1a589492de10248cc1fb1a4e261/16968.cpp "차량 번호판 1") 
 [16987](https://github.com/Ubin108/Algorithm-study/blob/965b277baa96e66a92b0de219c6417e0fbf12dab/16987.cpp "계란으로 계란치기")
 [16988](https://github.com/Ubin108/Algorithm-study/blob/3ed0dc92e39310bbf56ffb2e8aa1bdf0692e0cdc/16988.cpp "Baaaaaaaaaduk2 (Easy)")
