@@ -5,6 +5,7 @@
 [1644](https://github.com/Ubin108/Algorithm-study/blob/89313278ed8d21ed3c3869e7cd37fe0c99dcd546/1644.cpp "소수의 연속합")
 [1806](https://github.com/Ubin108/Algorithm-study/blob/d2da10fdac186e70e2cf250ad6e5af12da80eaa6/1806.cpp "부분합")
 [2003](https://github.com/Ubin108/Algorithm-study/blob/41fb4955799e9b0fc0ac8c913d04ee15e10e7f73/2003.cpp "수들의 합 2")
+[2143](https://github.com/Ubin108/Algorithm-study/blob/702c6fa38db6909aeeec8a29f0c65d3e76b27879/2143.cpp "두 배열의 합")
 [2210](https://github.com/Ubin108/Algorithm-study/blob/499f42f0ba5318b259172de23ab607c2a6334ef0/2210.cpp "숫자판 점프")
 [2422](https://github.com/Ubin108/Algorithm-study/blob/4ecc68953129c994646821f915160c518cdd0290/2422.cpp "한윤정이 이탈리아에 가서 아이스크림을 사먹는데")
 [3019](https://github.com/Ubin108/Algorithm-study/blob/c395c3c8aea1f83091c0e74b806342c497bdbd6f/3019.cpp "테트리스")
