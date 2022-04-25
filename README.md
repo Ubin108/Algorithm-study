@@ -36,6 +36,7 @@
 
 
 ## DFS/BFS
+[1600](https://github.com/Ubin108/Algorithm-study/blob/3d4ad7f5c27a9b0fd33b36da7bf1bb3ce851e8d1/1600.cpp "말이 되고픈 원숭이")
 [2251](https://github.com/Ubin108/Algorithm-study/blob/93c03ea02abfa548ed23d5a96f3ddf0afb814c43/2251.cpp "물통")
 [5014](https://github.com/Ubin108/Algorithm-study/blob/97f5543c5c72f7b18215183742feabf4687fc1c7/5014.cpp "스타트링크")
 [9376](https://github.com/Ubin108/Algorithm-study/blob/b3a87b276a3d8135d5d46f53a0d026eb734e0fc6/9376.cpp "탈옥")
