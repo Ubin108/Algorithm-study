@@ -39,4 +39,5 @@
 [2251](https://github.com/Ubin108/Algorithm-study/blob/93c03ea02abfa548ed23d5a96f3ddf0afb814c43/2251.cpp "물통")
 [5014](https://github.com/Ubin108/Algorithm-study/blob/97f5543c5c72f7b18215183742feabf4687fc1c7/5014.cpp "스타트링크")
 [9376](https://github.com/Ubin108/Algorithm-study/blob/b3a87b276a3d8135d5d46f53a0d026eb734e0fc6/9376.cpp "탈옥")
+[16932](https://github.com/Ubin108/Algorithm-study/blob/e2bf50ef17153c8b633b70f6e0da63e869f6107e/16932.cpp "모양만들기")
 [16988](https://github.com/Ubin108/Algorithm-study/blob/3ed0dc92e39310bbf56ffb2e8aa1bdf0692e0cdc/16988.cpp "Baaaaaaaaaduk2 (Easy)")
