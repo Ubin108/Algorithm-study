@@ -42,3 +42,4 @@
 [9376](https://github.com/Ubin108/Algorithm-study/blob/b3a87b276a3d8135d5d46f53a0d026eb734e0fc6/9376.cpp "탈옥")
 [16932](https://github.com/Ubin108/Algorithm-study/blob/e2bf50ef17153c8b633b70f6e0da63e869f6107e/16932.cpp "모양만들기")
 [16988](https://github.com/Ubin108/Algorithm-study/blob/3ed0dc92e39310bbf56ffb2e8aa1bdf0692e0cdc/16988.cpp "Baaaaaaaaaduk2 (Easy)")
+[17086](https://github.com/Ubin108/Algorithm-study/blob/e655c6aab899d911a5959a20223f438acf0af0f4/17086.cpp "아기 상어 2")
