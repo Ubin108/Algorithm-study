@@ -37,6 +37,7 @@
 
 ## DFS/BFS
 [1600](https://github.com/Ubin108/Algorithm-study/blob/3d4ad7f5c27a9b0fd33b36da7bf1bb3ce851e8d1/1600.cpp "말이 되고픈 원숭이")
+[2151](https://github.com/Ubin108/Algorithm-study/blob/1465cb46394e974c47032be9ebecb72cadba1944/2151.cpp "거울 설치")
 [2251](https://github.com/Ubin108/Algorithm-study/blob/93c03ea02abfa548ed23d5a96f3ddf0afb814c43/2251.cpp "물통")
 [4991](https://github.com/Ubin108/Algorithm-study/blob/9eca14027c67f8c62ad14fd7e04204c16b8f0c95/4991.cpp "로봇 청소기")
 [5014](https://github.com/Ubin108/Algorithm-study/blob/97f5543c5c72f7b18215183742feabf4687fc1c7/5014.cpp "스타트링크")
