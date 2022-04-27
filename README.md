@@ -43,6 +43,7 @@
 [4991](https://github.com/Ubin108/Algorithm-study/blob/9eca14027c67f8c62ad14fd7e04204c16b8f0c95/4991.cpp "로봇 청소기")
 [5014](https://github.com/Ubin108/Algorithm-study/blob/97f5543c5c72f7b18215183742feabf4687fc1c7/5014.cpp "스타트링크")
 [9376](https://github.com/Ubin108/Algorithm-study/blob/b3a87b276a3d8135d5d46f53a0d026eb734e0fc6/9376.cpp "탈옥")
+[12906](https://github.com/Ubin108/Algorithm-study/blob/76411c3ec9ba3c9b1285d56554a6426b027ca2f7/12906.cpp "새로운 하노이 탑")
 [16932](https://github.com/Ubin108/Algorithm-study/blob/e2bf50ef17153c8b633b70f6e0da63e869f6107e/16932.cpp "모양만들기")
 [16988](https://github.com/Ubin108/Algorithm-study/blob/3ed0dc92e39310bbf56ffb2e8aa1bdf0692e0cdc/16988.cpp "Baaaaaaaaaduk2 (Easy)")
 [17086](https://github.com/Ubin108/Algorithm-study/blob/e655c6aab899d911a5959a20223f438acf0af0f4/17086.cpp "아기 상어 2")
