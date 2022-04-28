@@ -47,3 +47,4 @@
 [16932](https://github.com/Ubin108/Algorithm-study/blob/e2bf50ef17153c8b633b70f6e0da63e869f6107e/16932.cpp "모양만들기")
 [16988](https://github.com/Ubin108/Algorithm-study/blob/3ed0dc92e39310bbf56ffb2e8aa1bdf0692e0cdc/16988.cpp "Baaaaaaaaaduk2 (Easy)")
 [17086](https://github.com/Ubin108/Algorithm-study/blob/e655c6aab899d911a5959a20223f438acf0af0f4/17086.cpp "아기 상어 2")
+[17141](https://github.com/Ubin108/Algorithm-study/blob/5ed76136842006c89594d87d07a83896dbbac085/17141.cpp "연구소 2")
