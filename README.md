@@ -48,3 +48,4 @@
 [16988](https://github.com/Ubin108/Algorithm-study/blob/3ed0dc92e39310bbf56ffb2e8aa1bdf0692e0cdc/16988.cpp "Baaaaaaaaaduk2 (Easy)")
 [17086](https://github.com/Ubin108/Algorithm-study/blob/e655c6aab899d911a5959a20223f438acf0af0f4/17086.cpp "아기 상어 2")
 [17141](https://github.com/Ubin108/Algorithm-study/blob/5ed76136842006c89594d87d07a83896dbbac085/17141.cpp "연구소 2")
+[17142](https://github.com/Ubin108/Algorithm-study/blob/944be6fd5b0843bb630d4f488c773515e6482938/17142.cpp "연구소 3")
