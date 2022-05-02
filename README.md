@@ -53,3 +53,4 @@
 
 ## String Search
 [16916-1](https://github.com/Ubin108/Algorithm-study/blob/74dee8b7e94e1146ce5c1ebd27357e40b761a26c/16916-1.cpp "부분 문자열(라빈카프)")
+[16916-2](https://github.com/Ubin108/Algorithm-study/blob/47772a9d7dd2a1afb5f831008b5531cc029a6025/16916-2.cpp "부분 문자열(KMP)")
