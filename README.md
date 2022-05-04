@@ -51,7 +51,8 @@
 [17142](https://github.com/Ubin108/Algorithm-study/blob/944be6fd5b0843bb630d4f488c773515e6482938/17142.cpp "연구소 3")
 
 ## Data Structure
-[1966](https://github.com/Ubin108/Algorithm-study/blob/d2ace4725b2b2e6d07224fc7c500a2cb60ded5e5/1966.cpp "프린터 큐")
+[1966](https://github.com/Ubin108/Algorithm-study/blob/d2ace4725b2b2e6d07224fc7c500a2cb60ded5e5/1966.cpp "프린터 큐(큐)")
+[4949](https://github.com/Ubin108/Algorithm-study/blob/8960f14693e7a6014dfdb7b62cdd3b0962efba78/4949.cpp "균형잡힌 세상(스택)")
 [9935](https://github.com/Ubin108/Algorithm-study/blob/4a605100ad7e0fb857a096d38f8e010470a64fe7/9935.cpp "문자열 폭발(스택)")
 
 ## String Search
