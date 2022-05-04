@@ -54,6 +54,7 @@
 [1966](https://github.com/Ubin108/Algorithm-study/blob/d2ace4725b2b2e6d07224fc7c500a2cb60ded5e5/1966.cpp "프린터 큐(큐)")
 [4949](https://github.com/Ubin108/Algorithm-study/blob/8960f14693e7a6014dfdb7b62cdd3b0962efba78/4949.cpp "균형잡힌 세상(스택)")
 [9935](https://github.com/Ubin108/Algorithm-study/blob/4a605100ad7e0fb857a096d38f8e010470a64fe7/9935.cpp "문자열 폭발(스택)")
+[10773](https://github.com/Ubin108/Algorithm-study/blob/21b43d0106d8c97723581ec9eab65e7ea4cd32d4/10773.cpp "제로")
 
 ## String Search
 [1305](https://github.com/Ubin108/Algorithm-study/blob/a2dac9cc4e7658ba5edc1b271966e1d215230069/1305.cpp "광고")
