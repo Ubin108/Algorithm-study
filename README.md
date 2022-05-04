@@ -50,6 +50,8 @@
 [17141](https://github.com/Ubin108/Algorithm-study/blob/5ed76136842006c89594d87d07a83896dbbac085/17141.cpp "연구소 2")
 [17142](https://github.com/Ubin108/Algorithm-study/blob/944be6fd5b0843bb630d4f488c773515e6482938/17142.cpp "연구소 3")
 
+## Data Structure
+[9935](https://github.com/Ubin108/Algorithm-study/blob/4a605100ad7e0fb857a096d38f8e010470a64fe7/9935.cpp "문자열 폭발(스택)")
 
 ## String Search
 [1305](https://github.com/Ubin108/Algorithm-study/blob/a2dac9cc4e7658ba5edc1b271966e1d215230069/1305.cpp "광고")
