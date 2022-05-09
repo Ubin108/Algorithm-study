@@ -52,6 +52,7 @@
 
 ## Data Structure
 [1966](https://github.com/Ubin108/Algorithm-study/blob/d2ace4725b2b2e6d07224fc7c500a2cb60ded5e5/1966.cpp "프린터 큐(큐)")
+[3015](https://github.com/Ubin108/Algorithm-study/blob/60eb698e988929494f1934298012bcfdf1a810a3/3015.cpp "오아시스 재결합(스택)")
 [4949](https://github.com/Ubin108/Algorithm-study/blob/8960f14693e7a6014dfdb7b62cdd3b0962efba78/4949.cpp "균형잡힌 세상(스택)")
 [6549](https://github.com/Ubin108/Algorithm-study/blob/126307170aec1fbfb4177c39477c9b58390716eb/6549.cpp "히스토그램에서 가장 큰 직사각형(스택)")
 [9935](https://github.com/Ubin108/Algorithm-study/blob/4a605100ad7e0fb857a096d38f8e010470a64fe7/9935.cpp "문자열 폭발(스택)")
