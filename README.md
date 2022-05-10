@@ -53,6 +53,7 @@
 ## Data Structure
 [1655](https://github.com/Ubin108/Algorithm-study/blob/b2ace207277094780711ad63bdfd663c56793f35/1655.cpp "가운데를 말해요(힙)")
 [1717](https://github.com/Ubin108/Algorithm-study/blob/26861847ca1eff55cc13781f5b60f5d31b3946c4/1717.cpp "집합의 표현(유니온 파인드)")
+[1764](https://github.com/Ubin108/Algorithm-study/blob/54a1edc6d9d7eeaf0d219db551493c509a83dde8/1764.cpp "듣보잡(이진 검색 트리)")
 [1966](https://github.com/Ubin108/Algorithm-study/blob/d2ace4725b2b2e6d07224fc7c500a2cb60ded5e5/1966.cpp "프린터 큐(큐)")
 [2606](https://github.com/Ubin108/Algorithm-study/blob/81bbccce164d15de311493f74fada14633361554/2606.cpp "바이러스(유니온 파인드)")
 [3015](https://github.com/Ubin108/Algorithm-study/blob/60eb698e988929494f1934298012bcfdf1a810a3/3015.cpp "오아시스 재결합(스택)")
