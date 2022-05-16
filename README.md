@@ -63,6 +63,7 @@
 [7785](https://github.com/Ubin108/Algorithm-study/blob/926ac92a2d65571d440cf4499f427790110f7877/7785.cpp "회사에 있는 사람(이진 검색 트리)")
 [9935](https://github.com/Ubin108/Algorithm-study/blob/4a605100ad7e0fb857a096d38f8e010470a64fe7/9935.cpp "문자열 폭발(스택)")
 [10773](https://github.com/Ubin108/Algorithm-study/blob/21b43d0106d8c97723581ec9eab65e7ea4cd32d4/10773.cpp "제로")
+[16909](https://github.com/Ubin108/Algorithm-study/blob/8b55eea1dc844b0e3a1896b701e7a5d855dad106/16909.cpp "카드 구매하기 3(스택)")
 
 ## String Search
 [1305](https://github.com/Ubin108/Algorithm-study/blob/a2dac9cc4e7658ba5edc1b271966e1d215230069/1305.cpp "광고")
