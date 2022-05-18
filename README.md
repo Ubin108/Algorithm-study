@@ -62,7 +62,7 @@
 [6549](https://github.com/Ubin108/Algorithm-study/blob/126307170aec1fbfb4177c39477c9b58390716eb/6549.cpp "히스토그램에서 가장 큰 직사각형(스택)")
 [7785](https://github.com/Ubin108/Algorithm-study/blob/926ac92a2d65571d440cf4499f427790110f7877/7785.cpp "회사에 있는 사람(이진 검색 트리)")
 [9935](https://github.com/Ubin108/Algorithm-study/blob/4a605100ad7e0fb857a096d38f8e010470a64fe7/9935.cpp "문자열 폭발(스택)")
-[10773](https://github.com/Ubin108/Algorithm-study/blob/21b43d0106d8c97723581ec9eab65e7ea4cd32d4/10773.cpp "제로")
+[10773](https://github.com/Ubin108/Algorithm-study/blob/21b43d0106d8c97723581ec9eab65e7ea4cd32d4/10773.cpp "제로(스택)")
 [14425](https://github.com/Ubin108/Algorithm-study/blob/773ab2cf25af25c159c668f0a6b7c9dfea257ec3/14425.cpp "문자열 집합(Trie)")
 [14426](https://github.com/Ubin108/Algorithm-study/blob/6fdac60a420a3099be1b1b4310553d1f7fdbf4b0/14426.cpp "접두사 찾기(Trie)")
 [16909](https://github.com/Ubin108/Algorithm-study/blob/8b55eea1dc844b0e3a1896b701e7a5d855dad106/16909.cpp "카드 구매하기 3(스택)")
