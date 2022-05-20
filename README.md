@@ -1,4 +1,6 @@
 # Algorithm-study 👨‍💻
+ios_base::sync_with_stdio(false);
+cin.tie(nullptr);
 
 ## Brute Force 
 [1208](https://github.com/Ubin108/Algorithm-study/blob/26f8c21d77731f08fcea055f3e8b6099385899ba/1208.cpp "부분수열의 합 2")
