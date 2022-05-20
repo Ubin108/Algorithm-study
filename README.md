@@ -75,6 +75,7 @@
 [16916-2](https://github.com/Ubin108/Algorithm-study/blob/47772a9d7dd2a1afb5f831008b5531cc029a6025/16916-2.cpp "부분 문자열(KMP)")
 
 ## Dynamic Programming
+[9095](https://github.com/Ubin108/Algorithm-study/blob/ddc5735d6bb281829dc70b6bc0910b7da23a554a/9095.cpp "1, 2, 3 더하기")
 [10942](https://github.com/Ubin108/Algorithm-study/blob/2279279cd5e1666bd36e597c83432da918432c40/10942.cpp "펠린드롬?")
 [11048](https://github.com/Ubin108/Algorithm-study/blob/2b4c5f4599cfc71bebca07064a1d530d7ce84de7/11048.cpp "이동하기")
 [11060](https://github.com/Ubin108/Algorithm-study/blob/2c2cc1e6b8528c9da5289ed5c95a2735cf7ab4e9/11060.cpp "점프 점프")
