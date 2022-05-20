@@ -80,3 +80,4 @@
 [11048](https://github.com/Ubin108/Algorithm-study/blob/2b4c5f4599cfc71bebca07064a1d530d7ce84de7/11048.cpp "이동하기")
 [11060](https://github.com/Ubin108/Algorithm-study/blob/2c2cc1e6b8528c9da5289ed5c95a2735cf7ab4e9/11060.cpp "점프 점프")
 [15486](https://github.com/Ubin108/Algorithm-study/blob/7c4efaca4480d7b71474aa797f24949eb2adcafc/15486.cpp "퇴사 2")
+[15989](https://github.com/Ubin108/Algorithm-study/blob/e323b598e1e6d012b1d01885ff64ae531d5a348d/15989.cpp "1, 2, 3 더하기 4")
