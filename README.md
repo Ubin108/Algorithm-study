@@ -79,6 +79,8 @@ cin.tie(nullptr);
 ## Dynamic Programming
 [1495](https://github.com/Ubin108/Algorithm-study/blob/5612d1ac0236ef76e09b017f6c3a6f6abdb0a44c/1495.cpp "기타리스트")
 [9095](https://github.com/Ubin108/Algorithm-study/blob/ddc5735d6bb281829dc70b6bc0910b7da23a554a/9095.cpp "1, 2, 3 더하기")
+[10422-1](https://github.com/Ubin108/Algorithm-study/blob/5bc0c381d45b6dc7dc6e87f261b2b9178232c149/10422-1.cpp "괄호(1차원 배열)")
+[10422-2](https://github.com/Ubin108/Algorithm-study/blob/5bc0c381d45b6dc7dc6e87f261b2b9178232c149/10422-2.cpp "괄호(2차원 배열)")
 [10942](https://github.com/Ubin108/Algorithm-study/blob/2279279cd5e1666bd36e597c83432da918432c40/10942.cpp "펠린드롬?")
 [11048](https://github.com/Ubin108/Algorithm-study/blob/2b4c5f4599cfc71bebca07064a1d530d7ce84de7/11048.cpp "이동하기")
 [11060](https://github.com/Ubin108/Algorithm-study/blob/2c2cc1e6b8528c9da5289ed5c95a2735cf7ab4e9/11060.cpp "점프 점프")
