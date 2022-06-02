@@ -81,6 +81,7 @@ cin.tie(nullptr);
 [1890](https://github.com/Ubin108/Algorithm-study/blob/0baf27a462bef69862c2c6758a847329e960453f/1890.cpp "점프")
 [2293](https://github.com/Ubin108/Algorithm-study/blob/8b2ab5cd8dea0c99026c4d2080057bb125ce3202/2293.cpp "동전 1")
 [2294](https://github.com/Ubin108/Algorithm-study/blob/b7f24c7f87f317a837a598b0fd4fafe9f1154f8a/2294.cpp "동전 2")
+[5557](https://github.com/Ubin108/Algorithm-study/blob/b4f4c7ff354d7e7d951e784114779ec84dd7d6c2/5557.cpp "1학년")
 [9095](https://github.com/Ubin108/Algorithm-study/blob/ddc5735d6bb281829dc70b6bc0910b7da23a554a/9095.cpp "1, 2, 3 더하기")
 [10422-1](https://github.com/Ubin108/Algorithm-study/blob/5bc0c381d45b6dc7dc6e87f261b2b9178232c149/10422-1.cpp "괄호(1차원 배열)")
 [10422-2](https://github.com/Ubin108/Algorithm-study/blob/5bc0c381d45b6dc7dc6e87f261b2b9178232c149/10422-2.cpp "괄호(2차원 배열)")
