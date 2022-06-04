@@ -31,7 +31,6 @@ bool go(int i, int a, int b, int p) {
 	}
 	return false;
 }
-
 int main() {
 	cin >> N >> K;
 	if (go(0, 0, 0, 0)) {
