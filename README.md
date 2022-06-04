@@ -91,6 +91,7 @@ cin.tie(nullptr);
 [11058](https://github.com/Ubin108/Algorithm-study/blob/9d1f441bdfd83d08c24625b27b1f20f56ee469c0/11058.cpp "크리보드")
 [11060](https://github.com/Ubin108/Algorithm-study/blob/2c2cc1e6b8528c9da5289ed5c95a2735cf7ab4e9/11060.cpp "점프 점프")
 [11066](https://github.com/Ubin108/Algorithm-study/blob/60a14fd27cf20f32f2cfa12ac2779361aa95e18e/11066.cpp "파일 합치기")
+[12026](https://github.com/Ubin108/Algorithm-study/blob/6371804cf4fe3023742019238b08cde15c4d2e16/12026.cpp "BOJ 거리")
 [12865](https://github.com/Ubin108/Algorithm-study/blob/70fb74b7961b9345d899d98347d8e445a54aa609/12865.cpp "평범한 배낭")
 [12869](https://github.com/Ubin108/Algorithm-study/blob/ac8dae715415893240715a27a3ebad783356193d/12869.cpp "뮤탈리스크")
 [12969](https://github.com/Ubin108/Algorithm-study/blob/cd18c2c3384b31ae314497f25ec95682652c8cb2/12969.cpp "ABC")
