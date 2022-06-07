@@ -82,6 +82,7 @@ cin.tie(nullptr);
 [2293](https://github.com/Ubin108/Algorithm-study/blob/8b2ab5cd8dea0c99026c4d2080057bb125ce3202/2293.cpp "동전 1")
 [2281](https://github.com/Ubin108/Algorithm-study/blob/d6125f6da7e1e078cec996e21873973162304ec6/2281.cpp "데스노트")
 [2294](https://github.com/Ubin108/Algorithm-study/blob/b7f24c7f87f317a837a598b0fd4fafe9f1154f8a/2294.cpp "동전 2")
+[3012](https://github.com/Ubin108/Algorithm-study/blob/e42a53d57baf1ce2bfb6e284bdd4d7e30fa02eaf/3012.cpp "올바른 괄호 문자열")
 [5557](https://github.com/Ubin108/Algorithm-study/blob/b4f4c7ff354d7e7d951e784114779ec84dd7d6c2/5557.cpp "1학년")
 [9095](https://github.com/Ubin108/Algorithm-study/blob/ddc5735d6bb281829dc70b6bc0910b7da23a554a/9095.cpp "1, 2, 3 더하기")
 [10422-1](https://github.com/Ubin108/Algorithm-study/blob/5bc0c381d45b6dc7dc6e87f261b2b9178232c149/10422-1.cpp "괄호(1차원 배열)")
