@@ -88,6 +88,7 @@ cin.tie(nullptr);
 [9095](https://github.com/Ubin108/Algorithm-study/blob/ddc5735d6bb281829dc70b6bc0910b7da23a554a/9095.cpp "1, 2, 3 더하기")
 [10422-1](https://github.com/Ubin108/Algorithm-study/blob/5bc0c381d45b6dc7dc6e87f261b2b9178232c149/10422-1.cpp "괄호(1차원 배열)")
 [10422-2](https://github.com/Ubin108/Algorithm-study/blob/5bc0c381d45b6dc7dc6e87f261b2b9178232c149/10422-2.cpp "괄호(2차원 배열)")
+[10564](https://github.com/Ubin108/Algorithm-study/blob/578f68df39130f0f9c3c62902212caafca677613/10564.cpp "팔굽혀펴기")
 [10942](https://github.com/Ubin108/Algorithm-study/blob/2279279cd5e1666bd36e597c83432da918432c40/10942.cpp "펠린드롬?")
 [11048](https://github.com/Ubin108/Algorithm-study/blob/2b4c5f4599cfc71bebca07064a1d530d7ce84de7/11048.cpp "이동하기")
 [11049](https://github.com/Ubin108/Algorithm-study/blob/4ac8a553e8b3033c469448e8913e238548b8afbc/11049.cpp "행렬 곱셈 순서")
