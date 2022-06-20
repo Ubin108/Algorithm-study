@@ -79,6 +79,7 @@ cin.tie(nullptr);
 ## Dynamic Programming
 [1495](https://github.com/Ubin108/Algorithm-study/blob/5612d1ac0236ef76e09b017f6c3a6f6abdb0a44c/1495.cpp "기타리스트")
 [1890](https://github.com/Ubin108/Algorithm-study/blob/0baf27a462bef69862c2c6758a847329e960453f/1890.cpp "점프")
+[1970](https://github.com/Ubin108/Algorithm-study/blob/831481e5630a1f312877c59574d8a59d3320cf18/1970.cpp "건배")
 [2163](https://github.com/Ubin108/Algorithm-study/blob/7ab3a8f2de6527118cbe22ee164a3c48a168a2fa/2163.cpp "초콜릿 자르기")
 [2293](https://github.com/Ubin108/Algorithm-study/blob/8b2ab5cd8dea0c99026c4d2080057bb125ce3202/2293.cpp "동전 1")
 [2281](https://github.com/Ubin108/Algorithm-study/blob/d6125f6da7e1e078cec996e21873973162304ec6/2281.cpp "데스노트")
