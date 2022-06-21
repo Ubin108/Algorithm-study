@@ -31,7 +31,7 @@ long long go(int x, int y) {
 	if (ans != -1) {
 		return ans;
 	}
-	ans = go(x - 1, y - 1) + (x - 1) * go(x - 1, y);
+	ans = go(x - 1, y - 1) + (x - 1) * go(x - 1, y); // 제 1종 스털링 수(원소의 개수가 x인 집합을 구분되지 않는 y개의 원순열로 분할하는 방법의 수)
 	return ans;
 }
 
