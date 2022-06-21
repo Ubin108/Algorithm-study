@@ -77,6 +77,7 @@ cin.tie(nullptr);
 [16916-2](https://github.com/Ubin108/Algorithm-study/blob/47772a9d7dd2a1afb5f831008b5531cc029a6025/16916-2.cpp "부분 문자열(KMP)")
 
 ## Dynamic Programming
+[1413](https://github.com/Ubin108/Algorithm-study/blob/c7f40e8ce546ffe8b0baa35470a665992dd94720/1413.cpp "박스 안의 열쇠")
 [1495](https://github.com/Ubin108/Algorithm-study/blob/5612d1ac0236ef76e09b017f6c3a6f6abdb0a44c/1495.cpp "기타리스트")
 [1890](https://github.com/Ubin108/Algorithm-study/blob/0baf27a462bef69862c2c6758a847329e960453f/1890.cpp "점프")
 [1970](https://github.com/Ubin108/Algorithm-study/blob/831481e5630a1f312877c59574d8a59d3320cf18/1970.cpp "건배")
